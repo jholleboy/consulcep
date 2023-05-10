@@ -1,6 +1,6 @@
 ## Projeto ConsulCep
 
-Projeto ConsulCep com 1 tabela estruturada por mim,Utilizando o framework Laravel  
+Projeto ConsulCep com 1 tabela estruturada por mim,Utilizando MySql  
 
 - cidade 
 
